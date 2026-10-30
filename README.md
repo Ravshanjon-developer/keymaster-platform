@@ -1,6 +1,6 @@
 # KeyMaster — платформа для изучения горячих клавиш
 
-**[Открыть демо / Live demo →](https://keymaster-liart.vercel.app)**
+**[Открыть демо / Live demo →](https://www.keymaster.pp.ua)**
 
 ![KeyMaster](screenshots/desktop.png)
 
